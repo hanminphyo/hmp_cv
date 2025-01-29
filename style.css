@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h5 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+p {
+  text-align: justify;
+  text-indent: 30px;
+}
+#summary {
+  border-bottom: 1px solid #000;
+}
+#skill {
+  border-bottom: 1px solid #000;
+}
+#experience {
+  border-bottom: 1px solid #000;
+}
+#education {
+  border-bottom: 1px solid #000;
+}
+.university {
+  text-indent: 0;
+}
+#projects {
+  border-bottom: 1px solid #000;
+}
+.projects {
+  text-indent: 0;
+}
